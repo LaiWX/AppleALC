@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#test
 # GenAppleALC.sh : 03/30/2016 16:51 PM
 # By cecekpawon
 # https://github.com/cecekpawon/AppleALC/ - Extras
